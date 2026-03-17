@@ -2,6 +2,10 @@
 
 ## Windows SSD Poo-Flusher (Maintenance Script)
 
+<img width="1004" height="541" alt="image" src="https://github.com/user-attachments/assets/5947b928-61a3-482d-b160-a06ee7b91a04" />
+
+
+
 A lightweight, automated batch script designed for high-RAM Windows systems (16GB to 64GB+) to reclaim massive amounts of wasted SSD space. 
 
 ## 💩 The Problem
